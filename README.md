@@ -1,5 +1,5 @@
-- Скачать и установить питон. Обязательно установите галочку 'Add to PATH'  https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe
-- запустить launch.bat
+- Скачать и установить питон.
+- запустить python3 main.py
 - Открыть config.py
 - Заполнить номер,Токен qiwi (https://qiwi.com/api)
 - Токен бота. Создавать бота через @botfather
